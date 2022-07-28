@@ -36,10 +36,21 @@ Based on the above description => identify the problem:
 
 #### 3.2. Preprocessing
 **- Check NaN, Null, remove duplicate**
+
 ![image](https://user-images.githubusercontent.com/91864024/181420746-e1726ab1-dd29-4df4-ae0d-fe178f88c5d7.png)
 
 **- Normalization**
+
 ![image](https://user-images.githubusercontent.com/91864024/181420847-eed51399-ab1a-4550-ae2c-791635bb9921.png)
+
+**- Split into train and test sets**
+
+![image](https://user-images.githubusercontent.com/91864024/181422430-6ec0815c-52a4-4142-ace7-5f6d503df0eb.png)
+
+
+
+
+
 
 
 
